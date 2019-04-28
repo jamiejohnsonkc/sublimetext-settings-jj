@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+	<img src="http://jamiejohnsonmev2.test/wp-content/uploads/2019/01/chevup.svg" alt="" class=""/>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>wpimg</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

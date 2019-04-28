@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+@include make-col-ready();
+@include make-col();
+padding-left: 0px;
+padding-right: 0px;
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>@makecol </tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+@extend .body-line-height;
+font-size: \$body-4-font-size;
+color: \$body-color;
+font-family: \$body-font-family;
+font-weight: \$body-font-weight;
+margin-bottom: \$body-margin-bottom;	
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>@body </tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

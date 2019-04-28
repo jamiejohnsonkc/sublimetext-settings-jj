@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+@extend .display-line-height;
+font-size:\$display-3-font-size;
+color: \$display-color;
+font-family: \$display-font-family;
+font-weight: \$display-font-weight;
+margin-bottom: \$display-margin-bottom;
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>@display </tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

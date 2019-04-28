@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"font_size": 9,
+	"highlight_modified_tabs": false,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"material_theme_accent_scrollbars": true,
+	"material_theme_accent_sky": true,
+	"material_theme_appbar_charcoal": true,
+	"material_theme_big_fileicons": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_small_statusbar": false,
+	"material_theme_small_tab": true,
+	"material_theme_tree_headings": true,
+	"theme": "Material-Theme-Darker.sublime-theme"
+}

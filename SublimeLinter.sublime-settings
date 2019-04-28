@@ -1,0 +1,16 @@
+// SublimeLinter Settings - User
+{
+	    "lint_mode": "manual",
+	     "linters":{
+	     	"SublimeLinter-PHP":{
+	     		"env": {"PATH":"c:/PHP"}
+	     	},
+	     	"SublimeLinter-html-tidy":{
+	     		"env": {"PATH":"c:/tidy"}
+	     	},
+	     	"SublimeLinter-contrib-sass-lint":{
+	     		"env": {"PATH":"c:/users/jamie johnson/appdata/roaming/npm"},
+	     		"lint_mode": "manual",
+	     	},
+	     }
+}

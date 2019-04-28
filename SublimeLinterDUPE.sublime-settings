@@ -1,0 +1,12 @@
+// SublimeLinter Settings - User
+{
+	    "lint_mode": "manual",
+	     "linters":{
+	     	"SublimeLinter-PHP":{
+	     		"env": {"PATH":"C:/PHP"}
+	     	},
+	     	"SublimeLinter-html-tidy":{
+	     		"env": {"PATH":"C:/tidy"}
+	     	},
+	     }
+}

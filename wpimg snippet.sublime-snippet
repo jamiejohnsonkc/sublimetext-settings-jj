@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+	<img src="http://jamiejohnsonmev2.test/wp-content/uploads/2019/1/chevup.svg" alt="" class="wp-image-23"/>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>wpimg</tabTrigger>
+	
+</snippet>

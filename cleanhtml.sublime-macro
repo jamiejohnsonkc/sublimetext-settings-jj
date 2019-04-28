@@ -1,0 +1,14 @@
+[
+	{
+		"args": null,
+		"command": "trim_leading_trailing_whitespace"
+	},
+	{
+		"args": null,
+		"command": "delete_empty_lines"
+	},
+	{
+		"args": null,
+		"command": "html_beautify"
+	}
+]

@@ -1,0 +1,12 @@
+[
+	{ "keys": ["ctrl+shift+alt+i"], "command": "increment_selection"},
+	{ "keys": ["ctrl+shift+alt+r"], "command": "rename"},
+	{ "keys": ["alt+shift+f"], "command": "reindent", "args": {"single_line": false}},
+	{ "keys": ["ctrl+alt+n"], "command": "new_snippet" },
+	{"keys": ["ctrl+left"], "command": "jump_back"},
+	{"keys": ["ctrl+right"], "command": "jump_forward"},
+	{ "keys": ["ctrl+shift+alt+l"], "command": "toggle_sync_scroll" },
+	{ "keys": "ctrl+l", "command": "my_line_selection" },
+	{ "keys": ["ctrl+alt+shift+c"],  "command": "toggle_fold_comments" }
+]
+
